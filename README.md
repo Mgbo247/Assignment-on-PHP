@@ -1,3 +1,4 @@
+![Screenshot_20240309-212844](https://github.com/Mgbo247/Assignment-on-PHP/assets/159806057/24f0ae0f-644d-4628-b47a-01f7c2c48f3a)
 ![Screenshot_20240309-214301](https://github.com/Mgbo247/Assignment-on-PHP/assets/159806057/f98378c8-b55c-42de-b682-4023cfc154a0)
 # Assignment-on-PHP
 Question:
